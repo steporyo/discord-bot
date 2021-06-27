@@ -3,7 +3,7 @@ import dictionary
 import discord
 from asyncio import sleep
 
-TOKEN = 'ODU4MDkwNDI3NzM4NDg4ODQy.YNZE_A.EPzDXlAX5H_8rjEPhoLL45peEhQ'
+TOKEN = 'ODU4MDkwNDI3NzM4NDg4ODQy.YNZE_A.SOg6IIVqCzAuUwsxxt1qWpuzD0A'
 VC_ID = '776418442139271192'
 
 class MyClient(discord.Client):
